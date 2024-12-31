@@ -1,0 +1,48 @@
+baseurl = "/"
+title = "IT-Teaching.de"
+theme = "hugo-clarity"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "IT-Teaching"
+    description = "Blog von Andreas Siebel"
+    email = "andreas.siebel@it-teaching.de"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+    profilePicture = "/si.jpg" 
+
+[Permalinks]
+    post = "/:filename/"
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Blog"
+  weight = 202
+  identifier = "Blog"
+  url = "/"
+
+  [[menu.main]]
+  name = "Datenschutz"
+  weight = 303
+  identifier = "Datenschutz"
+  url = "/datenschutz/"
+
+  [[menu.main]]
+  name = "Impressum"
+  weight = 304
+  identifier = "Impressum"
+  url = "/impressum/"
+
+
+  [[menu.main]]
+  name = "Projekte"
+  weight = 305
+  identifier = "About"
+  url = "https://projects.opencoding.de/"

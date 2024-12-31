@@ -1,0 +1,19 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+
+.article-content img {
+    border:4px solid rgb(17, 17, 17);
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px 2px rgba(40, 40, 40, 0.849)
+}
+
+
+.article-content .highlight {
+    margin-bottom: 40px;
+}
+
+video {
+    border:4px solid rgb(17, 17, 17);
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px 2px rgba(40, 40, 40, 0.849)
+}
