@@ -38,7 +38,7 @@ jobs:
           cat config.yaml
                   
       - name: Update Hugo Modules
-        run: hugo mod get -u --config config.yaml
+        run: hugo mod get -u
 
       - name: Get Paige
         run: hugo mod get -u github.com/willfaught/paige@v0.92.0
