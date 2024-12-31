@@ -2,7 +2,7 @@
 title: Werbung in der Schule
 author: a.sbl
 type: post
-date: "01-02-2019"
+date: "2019-02-01"
 categories:
   - Digitalisierung
 tags:
