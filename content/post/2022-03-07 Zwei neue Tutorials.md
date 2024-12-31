@@ -1,7 +1,7 @@
 ---
 title: "Zwei neue Tutorials"
 date: "2022-03-07"
-published: true
+
 type: post
 author: asbl
 image: /images/sunflower6black.png

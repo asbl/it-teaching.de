@@ -1,7 +1,7 @@
 ---
 title: "Offtopic - Brettspiele"
 date: "2023-09-10"
-published: true
+
 type: post
 author: asbl
 image: /images/allianzen01.jpeg

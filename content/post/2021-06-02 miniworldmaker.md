@@ -1,7 +1,7 @@
 ---
 title: "Miniworldmaker"
 date: "2021-06-02"
-published: true
+
 type: post
 author: asbl
 categories:

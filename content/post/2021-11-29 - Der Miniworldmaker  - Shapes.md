@@ -1,7 +1,7 @@
 ---
 title: "Miniworldmaker - Version 2"
 date: "2021-02-16"
-published: true
+
 type: post
 author: asbl
 image: /images/shapes.png

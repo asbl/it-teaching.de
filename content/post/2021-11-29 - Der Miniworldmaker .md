@@ -1,7 +1,7 @@
 ---
 title: "Miniworldmaker"
 date: "2021-12-19"
-published: true
+
 type: post
 author: asbl
 image: /images/mwm_kara.png

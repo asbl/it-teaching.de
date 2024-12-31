@@ -1,7 +1,7 @@
 ---
 title: "Hexboards"
 date: "2022-04-19"
-published: true
+
 type: post
 author: asbl
 image: /images/hexboard.png

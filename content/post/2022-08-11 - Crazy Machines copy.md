@@ -1,7 +1,7 @@
 ---
 title: "Crazy Machines"
 date: "2022-08-11"
-published: true
+
 type: post
 author: asbl
 image: /images/crazy_machines1.png

@@ -1,7 +1,7 @@
 ---
 title: "Material vom Workshop - Python für Umsteiger"
 date: "2023-09-25"
-published: true
+
 type: post
 author: asbl
 image: /images/python-fobi.png
