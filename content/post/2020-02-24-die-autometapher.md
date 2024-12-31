@@ -1,10 +1,8 @@
 ---
 title: "Die Autoreparatur-Metapher   "
 date: "2020-02-23"
-published: true
 type: post
 image: /images/car.png
-
 categories:
   - Informatik
   - Digitalisierung
