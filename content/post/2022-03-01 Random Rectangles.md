@@ -1,7 +1,7 @@
 ---
 title: "Random Rectangles with Transparency"
 date: "2022-02-28"
-published: true
+
 type: post
 author: asbl
 image: /images/random_rectangles2.png

@@ -1,7 +1,7 @@
 ---
 title: "Miniworldmaker - Version 2"
 date: "2022-02-28"
-published: true
+
 type: post
 author: asbl
 image: /images/mouse2.png

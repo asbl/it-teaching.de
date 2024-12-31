@@ -1,7 +1,7 @@
 ---
 title: "Python Workshop"
 date: "2021-11-28"
-published: true
+
 type: post
 author: asbl
 image: /images/python_workshop.png

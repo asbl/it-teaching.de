@@ -1,7 +1,7 @@
 ---
 title: "Vectors and Arrays"
 date: "2022-03-06"
-published: true
+
 type: post
 author: asbl
 image: /images/gradient.png

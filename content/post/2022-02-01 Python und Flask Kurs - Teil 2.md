@@ -1,7 +1,7 @@
 ---
 title: "Python Workshop (jetzt mit allen Videos)"
 date: "2022-02-01"
-published: true
+
 type: post
 author: asbl
 image: /images/python_workshop.png

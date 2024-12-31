@@ -1,7 +1,7 @@
 ---
 title: "Mein erster H5P Content Type"
 date: "2023-01-16"
-published: true
+
 type: post
 author: asbl
 image: /images/h5p-ide/1.png

@@ -1,7 +1,7 @@
 ---
 title: "Turtle-Grafik in Moodle (Moodle und skulpt)"
 date: "2020-10-02"
-published: true
+
 type: post
 author: asbl
 image: /images/turtle.png
