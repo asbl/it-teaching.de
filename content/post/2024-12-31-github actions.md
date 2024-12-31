@@ -5,7 +5,7 @@ date: "2024-12-31"
 type: post
 author: asbl
 categories:
-  - Informatik
+  - it-teaching.de
 tags:
   - Informatik
   - github
@@ -21,3 +21,5 @@ a) Hugo sehr gut kollaborativ nutzen, ohne Server-Geheimnisse an Mitnutzende fre
 b) Die Web-Oberfläche von Github als eine Art CMS benutzen und direkt im Web Dateien bearbeiten ohne die Entwicklungsumgebung zu öffnen.
 
 Damit ist das Blog offiziell wieder aktiv. Ich schreibe demnächst mal auf, was ich unternommen habe, damit dies so funktioniert wie ich mir das vorstelle.
+
+Guten Rutsch euch allen!
