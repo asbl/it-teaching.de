@@ -29,13 +29,6 @@ jobs:
           tar -xvzf hugo.tar.gz
           sudo mv hugo /usr/local/bin/hugo
           hugo version
-
-      - name: Debug Config File
-        run: |
-          echo "Available config files:"
-          ls -l config.*
-          echo "Using config.yaml:"
-          cat config.yaml
                   
       - name: Update Hugo Modules
         run: hugo mod get -u
