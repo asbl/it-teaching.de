@@ -30,6 +30,13 @@ jobs:
           sudo mv hugo /usr/local/bin/hugo
           hugo version
 
+      - name: Debug Config File
+        run: |
+          echo "Available config files:"
+          ls -l config.*
+          echo "Using config.yaml:"
+          cat config.yaml
+                  
       - name: Update Hugo Modules
         run: hugo mod get -u
 
@@ -49,13 +56,6 @@ jobs:
       # 5. Website bauen
       - name: Build Hugo site
         run: hugo
-
-      - name: Debug Config File
-        run: |
-          echo "Available config files:"
-          ls -l config.*
-          echo "Using config.yaml:"
-          cat config.yaml
 
       # 6. Deploy zur Webspace via SSH
       - name: Deploy to Webspace
