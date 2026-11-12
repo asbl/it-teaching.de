@@ -57,7 +57,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: vssue
 
         disqusjs:
@@ -82,7 +82,7 @@ params:
             owner: a_siebel
             repo: itteaching
             clientId: 8180899e-2441-41f6-a465-073478b6ee2c
-            clientSecret: REMOVED_REVOKED_SECRET
+            clientSecret:
             autoCreateIssue: true
 
         # Waline client configuration see: https://waline.js.org/en/reference/client.html
